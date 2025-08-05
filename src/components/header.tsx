@@ -20,6 +20,13 @@ export default function Header() {
 
         {/* 导航链接部分 */}
         <div className="flex items-center space-x-12">
+        <Link 
+            href="/" 
+            className="text-white hover:text-gray-300 transition-colors duration-200 text-lg"
+            style={{ fontFamily: 'Times New Roman, serif' }}
+          >
+            Home
+          </Link>
           <Link 
             href="/academy" 
             className="text-white hover:text-gray-300 transition-colors duration-200 text-lg"
