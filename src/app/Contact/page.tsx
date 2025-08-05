@@ -7,7 +7,7 @@ export default function Contact() {
         </h1>
         <div className="max-w-4xl mx-auto">
           <p className="text-lg text-gray-300 text-center mb-6" style={{ fontFamily: 'Times New Roman, serif' }}>
-            Get in touch with us. We'd love to hear from you.
+            Get in touch with us. We&apos;d love to hear from you.
           </p>
           
           <div className="text-center text-white" style={{ fontFamily: 'Times New Roman, serif' }}>
